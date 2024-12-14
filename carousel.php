@@ -6,7 +6,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                    <img src="https://synovate.pk/img/carousel-1.jpg" class="img-fluid" alt="First slide">
+                    <img src="./images/carousel-1.webp" class="img-fluid" alt="First slide">
                     <div class="carousel-caption">
                         <div class="container carousel-content">
                             <h6 class="text-secondary h4 animated fadeInUp">Best IT Solutions</h6>
@@ -18,7 +18,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="https://synovate.pk/img/carousel-2.jpg" class="img-fluid" alt="Second slide">
+                    <img src="./images/carousel-2.webp" class="img-fluid" alt="Second slide">
                     <div class="carousel-caption">
                         <div class="container carousel-content">
                             <h6 class="text-secondary h4 animated fadeInUp">Best IT Solutions</h6>

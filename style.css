@@ -1,3 +1,9 @@
-.nav-bgn{
+* {
+    font-family: "Orbitron", sans-serif !important;
+}
+
+.nav-bgn-aaa {
     background-color: #420558 !important;
+    font-size: 15px;
+    font-weight: 100;
 }
