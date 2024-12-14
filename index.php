@@ -13,6 +13,8 @@
     
     <?php include "./navbar.php" ?>
     <?php include "./carousel.php" ?>
+    <?php include "./company-fact.php" ?>
+
 
     </div>
 </body>
