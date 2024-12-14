@@ -1,0 +1,29 @@
+body {
+    background-color: #f4f6f9;
+}
+.sidebar {
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #343a40;
+    padding-top: 20px;
+}
+.sidebar .nav-link {
+    color: #adb5bd;
+    transition: all 0.3s ease;
+}
+.sidebar .nav-link:hover {
+    color: #ffffff;
+    background-color: #495057;
+}
+.content-area {
+    margin-left: 250px;
+    padding: 20px;
+}
+.card-header {
+    background-color: #f8f9fa;
+}
+.analytics-card {
+    margin-bottom: 20px;
+}
