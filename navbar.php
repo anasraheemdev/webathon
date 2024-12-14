@@ -41,8 +41,7 @@
                         <span class="text-secondary">Call: + 92 346 2440356</span>
                     </div>
                     <div class="d-flex align-items-center justify-content-center ms-4">
-                        <a href="login.html" class="btn btn-outline-light me-2">Login</a>
-                        <a href="signup.html" class="btn btn-light">Sign Up</a>
+                        <a href="sign.php" class="btn btn-outline-light me-2">Login Here</a>
                     </div>
                 </div>
             </nav>

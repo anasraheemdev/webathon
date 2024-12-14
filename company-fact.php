@@ -1,4 +1,3 @@
-<!-- Fact Start -->
 <div class="container-fluid bg-secondary py-5">
         <div class="container">
             <div class="row">
